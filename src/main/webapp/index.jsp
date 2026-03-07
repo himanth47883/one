@@ -571,7 +571,7 @@
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
                 <h1>Summer Collection — Premium Picks</h1>
-                <span>There you go</span>
+                <span>There you go Himanth</span> 
 
 
 
