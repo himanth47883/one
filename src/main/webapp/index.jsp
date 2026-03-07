@@ -571,9 +571,6 @@
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
                 <h1>Summer Collection — Premium Picks</h1>
-                <span>There you go Himanth</span> 
-
-
 
                 <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
