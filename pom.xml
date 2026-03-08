@@ -32,7 +32,7 @@
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>nexusRepo</id>
+		    <id>NexusRepo</id>
 		    <url>http://51.20.193.7:8081/repository/NexusRepo/</url>
 		</repository>
   	</distributionManagement>
