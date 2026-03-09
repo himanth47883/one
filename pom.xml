@@ -32,8 +32,8 @@
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>NexusRepo</id>
-		    <url>http://51.20.193.7:8081/repository/NexusRepo/</url>
+		    <id>NexusRepoPractice-2</id>
+		    <url>http://16.171.134.112:8081/repository/NexusRepoPractice-2/</url>
 		</repository>
   	</distributionManagement>
 	
